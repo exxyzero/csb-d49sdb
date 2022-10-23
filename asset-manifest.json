@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "https://exxyzero.github.io/csb-d49sdb/static/css/main.a1e1e8ee.chunk.css",
+    "main.js": "https://exxyzero.github.io/csb-d49sdb/static/js/main.8cd6d5b9.chunk.js",
+    "main.js.map": "https://exxyzero.github.io/csb-d49sdb/static/js/main.8cd6d5b9.chunk.js.map",
+    "runtime-main.js": "https://exxyzero.github.io/csb-d49sdb/static/js/runtime-main.049b34db.js",
+    "runtime-main.js.map": "https://exxyzero.github.io/csb-d49sdb/static/js/runtime-main.049b34db.js.map",
+    "static/css/2.38387c5c.chunk.css": "https://exxyzero.github.io/csb-d49sdb/static/css/2.38387c5c.chunk.css",
+    "static/js/2.2c90287b.chunk.js": "https://exxyzero.github.io/csb-d49sdb/static/js/2.2c90287b.chunk.js",
+    "static/js/2.2c90287b.chunk.js.map": "https://exxyzero.github.io/csb-d49sdb/static/js/2.2c90287b.chunk.js.map",
+    "static/js/3.6e11be0e.chunk.js": "https://exxyzero.github.io/csb-d49sdb/static/js/3.6e11be0e.chunk.js",
+    "static/js/3.6e11be0e.chunk.js.map": "https://exxyzero.github.io/csb-d49sdb/static/js/3.6e11be0e.chunk.js.map",
+    "index.html": "https://exxyzero.github.io/csb-d49sdb/index.html",
+    "static/css/2.38387c5c.chunk.css.map": "https://exxyzero.github.io/csb-d49sdb/static/css/2.38387c5c.chunk.css.map",
+    "static/css/main.a1e1e8ee.chunk.css.map": "https://exxyzero.github.io/csb-d49sdb/static/css/main.a1e1e8ee.chunk.css.map",
+    "static/js/2.2c90287b.chunk.js.LICENSE.txt": "https://exxyzero.github.io/csb-d49sdb/static/js/2.2c90287b.chunk.js.LICENSE.txt",
+    "static/media/CV FRANSEL MANUHUTU 2.0ce51c84.pdf": "https://exxyzero.github.io/csb-d49sdb/static/media/CV FRANSEL MANUHUTU 2.0ce51c84.pdf",
+    "static/media/El logo.f822d37f.png": "https://exxyzero.github.io/csb-d49sdb/static/media/El logo.f822d37f.png",
+    "static/media/Natsepa.84b2335d.jpg": "https://exxyzero.github.io/csb-d49sdb/static/media/Natsepa.84b2335d.jpg",
+    "static/media/Nelayan.c9c1c735.jpg": "https://exxyzero.github.io/csb-d49sdb/static/media/Nelayan.c9c1c735.jpg",
+    "static/media/Sampah.d4b66584.jpg": "https://exxyzero.github.io/csb-d49sdb/static/media/Sampah.d4b66584.jpg",
+    "static/media/Suntik.1ec8ddca.jpg": "https://exxyzero.github.io/csb-d49sdb/static/media/Suntik.1ec8ddca.jpg",
+    "static/media/Tial.d8164d4d.jpg": "https://exxyzero.github.io/csb-d49sdb/static/media/Tial.d8164d4d.jpg",
+    "static/media/Wawancara.5c65ad17.jpg": "https://exxyzero.github.io/csb-d49sdb/static/media/Wawancara.5c65ad17.jpg",
+    "static/media/about.c4523742.png": "https://exxyzero.github.io/csb-d49sdb/static/media/about.c4523742.png",
+    "static/media/avatar.5852f40f.svg": "https://exxyzero.github.io/csb-d49sdb/static/media/avatar.5852f40f.svg",
+    "static/media/style.css": "https://exxyzero.github.io/csb-d49sdb/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "https://exxyzero.github.io/csb-d49sdb/static/media/home-main.541f8179.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.049b34db.js",
+    "static/css/2.38387c5c.chunk.css",
+    "static/js/2.2c90287b.chunk.js",
+    "static/css/main.a1e1e8ee.chunk.css",
+    "static/js/main.8cd6d5b9.chunk.js"
+  ]
+}
